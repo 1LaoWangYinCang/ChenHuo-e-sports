@@ -1,15 +1,14 @@
-# YiJia-e-sports
-YiJia e-sports is a home electric race furniture and decoration shopping mall. We launch a complete range of esports household products with excellent quality and comfortable and beautiful appearance, so that people can buy the esports household products they need efficiently and high quality in their daily life.
+# ChenHuo e-sports
+Chen huo esports is an esports game equipment to buy mall. Our app is dedicated to promoting cool and practical esports devices, so that people can buy the esports devices they need efficiently and efficiently in their daily life.
 
-Our app shows a full range of esports household products, including perigame accessories, esports chairs, computer tables, esports capsules, esports sofas and other esports household products. These categories complete esports household items can meet the user's selection and purchase.
+Our app shows a full range of esports devices, including game notebook, esports console, esports screen, esports mouse, esports keyboard, esports headset and other esports devices. These categories of complete esports equipment can meet the user's selection and procurement.
 
-Our app makes a very detailed classification of these esports household items, which helps users quickly find the esports household items they want to buy.
+Our app makes a very detailed classification of these esports devices, which helps users quickly find the esports devices they want to buy.
 
-Our app gives a detailed and careful introduction to each piece of esports household products, so that you can fully understand these esports household products, and find your favorite esports household products, which is convenient for you to purchase and place an order.
+Our app gives a detailed and careful introduction to each product, so that you can have a full understanding of these esports devices, and find your favorite esports devices to facilitate your purchase and order.
 
-Our app also has the function of commodity collection. Your favorite e-sports household items can be collected into the collection list, which is convenient for you to place an order next time.
+Our app also has the function of goods collection. Your favorite e-sports equipment can be collected to the list of favorites, which is convenient for you to place an order next time.
 
+Chen huo esports let you use the highest quality esports equipment, experience the fun of the game.
 
-Yijia esports let you enjoy a comfortable life, taste the fun brought by the game!
-
-If you have any questions, please contact us as follows : rhwkr189416@sina.com
+If you have any questions, please contact us as follows:uoqutia7932@sina.com
