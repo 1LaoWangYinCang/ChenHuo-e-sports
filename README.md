@@ -1,14 +1,15 @@
-# ChenHuo e-sports
-Chen huo esports is an esports game equipment to buy mall. Our app is dedicated to promoting cool and practical esports devices, so that people can buy the esports devices they need efficiently and efficiently in their daily life.
+# Youshi Sports
 
-Our app shows a full range of esports devices, including game notebook, esports console, esports screen, esports mouse, esports keyboard, esports headset and other esports devices. These categories of complete esports equipment can meet the user's selection and procurement.
+Youshi Sports is a sports and fitness venue booking app, we launched the sports and fitness venue is very professional and comfortable environment, so that you can happily exercise and fitness.
 
-Our app makes a very detailed classification of these esports devices, which helps users quickly find the esports devices they want to buy.
+Our app is dedicated to popular, comfortable and professional sports and fitness venues, so that people can make efficient and high-quality reservation to their favorite sports and fitness venues in their daily life.
 
-Our app gives a detailed and careful introduction to each product, so that you can have a full understanding of these esports devices, and find your favorite esports devices to facilitate your purchase and order.
+Our app shows a variety of sports and fitness venues, including the natatorium, gym, roller skating club, skateboard field, gym and other sports and fitness venues. These full range of sports and fitness venues can meet the user's selection and appointment.
 
-Our app also has the function of goods collection. Your favorite e-sports equipment can be collected to the list of favorites, which is convenient for you to place an order next time.
+Our App has a very detailed classification of these e-sports venues, helping users quickly find the gym they want to reserve.
 
-Chen huo esports let you use the highest quality esports equipment, experience the fun of the game.
+Our app has the function of collecting sports and fitness venues. You can put your favorite sports and fitness venues in the collection list, so that you can place an order next time.
 
-If you have any questions, please contact us as follows:uoqutia7932@sina.com
+Youshi Sports - easily book the gym and enjoy the happiness brought by sports.
+
+If you have any questions, please contact us as follows:pqkw80335ukh@sina.com
