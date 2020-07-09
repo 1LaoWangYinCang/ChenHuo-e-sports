@@ -1,4 +1,4 @@
-# Youshi Sports
+# YouShi Sports
 
 Youshi Sports is a shopping mall for sports and fitness products. We launch a variety of professional sports products for users to choose and buy, including: fitness equipment, basketball clothing, fitness running clothing, sports protection, running shoes and other sports and fitness products. These products are good and inexpensive for sports lovers to own.
 
