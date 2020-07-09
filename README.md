@@ -1,15 +1,11 @@
 # Youshi Sports
 
-Youshi Sports is a sports and fitness venue booking app, we launched the sports and fitness venue is very professional and comfortable environment, so that you can happily exercise and fitness.
+Youshi Sports is a shopping mall for sports and fitness products. We launch a variety of professional sports products for users to choose and buy, including: fitness equipment, basketball clothing, fitness running clothing, sports protection, running shoes and other sports and fitness products. These products are good and inexpensive for sports lovers to own.
 
-Our app is dedicated to popular, comfortable and professional sports and fitness venues, so that people can make efficient and high-quality reservation to their favorite sports and fitness venues in their daily life.
+Our app has classified these sports and fitness products in great detail, which helps users to quickly find the sports and fitness products they want to buy.
 
-Our app shows a variety of sports and fitness venues, including the natatorium, gym, roller skating club, skateboard field, gym and other sports and fitness venues. These full range of sports and fitness venues can meet the user's selection and appointment.
+Our app also has the commodity collection function. Your favorite sports and fitness products can be collected into the collection list for your next order. Our APP gives a detailed and careful introduction to each product, so that you can fully understand these products, find your favorite sports and fitness products, and make it convenient for you to purchase and place orders.
 
-Our App has a very detailed classification of these e-sports venues, helping users quickly find the gym they want to reserve.
-
-Our app has the function of collecting sports and fitness venues. You can put your favorite sports and fitness venues in the collection list, so that you can place an order next time.
-
-Youshi Sports - easily book the gym and enjoy the happiness brought by sports.
+With professional sports and fitness products to make you higher, faster and stronger!
 
 If you have any questions, please contact us as follows:pqkw80335ukh@sina.com
