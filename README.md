@@ -1,11 +1,15 @@
-# YouShi Sports
+# TouTiaoTiYuDaRen
 
-Youshi Sports is a shopping mall for sports and fitness products. We launch a variety of professional sports products for users to choose and buy, including: fitness equipment, basketball clothing, fitness running clothing, sports protection, running shoes and other sports and fitness products. These products are good and inexpensive for sports lovers to own.
+TouTiaoTiYuDaRen are dedicated to promoting the popular synchronised swimming equipment so that people can buy professional synchronised swimming training equipment efficiently and effectively in their daily lives, while also easily recording and sharing the competition results.
 
-Our app has classified these sports and fitness products in great detail, which helps users to quickly find the sports and fitness products they want to buy.
+- Our app displays a full range of synchronized swimming equipment, including goggles, caps, synchronized swimming training suits, swimming bags, nose and ear plugs. These categories of synchronized swimming equipment can meet the user's choice and purchase.
 
-Our app also has the commodity collection function. Your favorite sports and fitness products can be collected into the collection list for your next order. Our APP gives a detailed and careful introduction to each product, so that you can fully understand these products, find your favorite sports and fitness products, and make it convenient for you to purchase and place orders.
+- Our app has classified these synchronized swimming sports equipment in great detail, which helps users to quickly find the goods they want to buy.
 
-With professional sports and fitness products to make you higher, faster and stronger!
+- Our app also has the function of commodity collection. Your favorite synchronized swimming sports equipment can be collected into the collection list, which is convenient for you to browse and place orders.
 
-If you have any questions, please contact us as follows:pqkw80335ukh@sina.com
+- Our app can also record the record of synchronized swimming competitions, so you can easily record the record and details of the live competition, record every competition you like, and share the record with others.
+
+Synchronized swimming, record records, buy equipment
+
+If you have any questions, please contact us as follows:wxe19890805@icloud.com
