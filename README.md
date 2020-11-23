@@ -1,4 +1,4 @@
-# TouTiaoTiYuDaRen
+# JiBiFenDaRen
 
 TouTiaoTiYuDaRen are dedicated to promoting the popular synchronised swimming equipment so that people can buy professional synchronised swimming training equipment efficiently and effectively in their daily lives, while also easily recording and sharing the competition results.
 
