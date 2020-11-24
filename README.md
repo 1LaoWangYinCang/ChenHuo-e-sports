@@ -1,6 +1,6 @@
-# JiBiFenDaRen
+# TiYuXiGuaZhuShou
 
-TouTiaoTiYuDaRen are dedicated to promoting the popular synchronised swimming equipment so that people can buy professional synchronised swimming training equipment efficiently and effectively in their daily lives, while also easily recording and sharing the competition results.
+TiYuXiGuaZhuShou are dedicated to promoting the popular synchronised swimming equipment so that people can buy professional synchronised swimming training equipment efficiently and effectively in their daily lives, while also easily recording and sharing the competition results.
 
 - Our app displays a full range of synchronized swimming equipment, including goggles, caps, synchronized swimming training suits, swimming bags, nose and ear plugs. These categories of synchronized swimming equipment can meet the user's choice and purchase.
 
