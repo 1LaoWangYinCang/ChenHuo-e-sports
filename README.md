@@ -1,15 +1,11 @@
-# TiYuXiGuaZhuShou
+# Daily Digital News House
 
-TiYuXiGuaZhuShou are dedicated to promoting the popular synchronised swimming equipment so that people can buy professional synchronised swimming training equipment efficiently and effectively in their daily lives, while also easily recording and sharing the competition results.
+Daily Digital News House is dedicated to promoting the daily news information of digital currency. It is an app that allows people to quickly access the latest digital currency information.
 
-- Our app displays a full range of synchronized swimming equipment, including goggles, caps, synchronized swimming training suits, swimming bags, nose and ear plugs. These categories of synchronized swimming equipment can meet the user's choice and purchase.
+Our app enables people to timely and efficiently understand the digital currency market, currency circle news, real-time news, industry information and other information in their daily life. At the same time, people can learn, comment and collect these hot information.
 
-- Our app has classified these synchronized swimming sports equipment in great detail, which helps users to quickly find the goods they want to buy.
+Our app enables people to obtain real-time market information of various digital currencies, reserve offline courses of digital currencies, and learn basic knowledge of digital currencies. At the same time, people can express their opinions on digital currency in the community and exchange their ideas with others.
 
-- Our app also has the function of commodity collection. Your favorite synchronized swimming sports equipment can be collected into the collection list, which is convenient for you to browse and place orders.
+Every day's digital currency information is here.
 
-- Our app can also record the record of synchronized swimming competitions, so you can easily record the record and details of the live competition, record every competition you like, and share the record with others.
-
-Synchronized swimming, record records, buy equipment
-
-If you have any questions, please contact us as follows:wxe19890805@icloud.com
+If you have any questions, please contact us as follows:rhdfinanc@outlook.com
